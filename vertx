@@ -1,0 +1,3 @@
+vertx program run command:vertx run java filename
+example:1.cd workspace/Restapi/src
+        2.verx run simple.java
